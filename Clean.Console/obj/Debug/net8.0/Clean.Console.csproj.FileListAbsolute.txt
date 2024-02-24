@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\פרקטיקוד\Clean.Console\Clean.Console\bin\Debug\net8.0\Clean.Console.exe
+C:\Users\DELL\Desktop\פרקטיקוד\Clean.Console\Clean.Console\bin\Debug\net8.0\Clean.Console.deps.json
+C:\Users\DELL\Desktop\פרקטיקוד\Clean.Console\Clean.Console\bin\Debug\net8.0\Clean.Console.runtimeconfig.json
+C:\Users\DELL\Desktop\פרקטיקוד\Clean.Console\Clean.Console\bin\Debug\net8.0\Clean.Console.dll
+C:\Users\DELL\Desktop\פרקטיקוד\Clean.Console\Clean.Console\bin\Debug\net8.0\Clean.Console.pdb
+C:\Users\DELL\Desktop\פרקטיקוד\Clean.Console\Clean.Console\obj\Debug\net8.0\Clean.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\פרקטיקוד\Clean.Console\Clean.Console\obj\Debug\net8.0\Clean.Console.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\פרקטיקוד\Clean.Console\Clean.Console\obj\Debug\net8.0\Clean.Console.AssemblyInfo.cs
+C:\Users\DELL\Desktop\פרקטיקוד\Clean.Console\Clean.Console\obj\Debug\net8.0\Clean.Console.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\פרקטיקוד\Clean.Console\Clean.Console\obj\Debug\net8.0\Clean.Console.dll
+C:\Users\DELL\Desktop\פרקטיקוד\Clean.Console\Clean.Console\obj\Debug\net8.0\refint\Clean.Console.dll
+C:\Users\DELL\Desktop\פרקטיקוד\Clean.Console\Clean.Console\obj\Debug\net8.0\Clean.Console.pdb
+C:\Users\DELL\Desktop\פרקטיקוד\Clean.Console\Clean.Console\obj\Debug\net8.0\Clean.Console.genruntimeconfig.cache
+C:\Users\DELL\Desktop\פרקטיקוד\Clean.Console\Clean.Console\obj\Debug\net8.0\ref\Clean.Console.dll
+C:\Users\DELL\Desktop\פרקטיקוד\Clean.Console\Clean.Console\bin\Debug\net8.0\seed\HtmlOneTags.json
+C:\Users\DELL\Desktop\פרקטיקוד\Clean.Console\Clean.Console\bin\Debug\net8.0\seed\HtmlTags.json
